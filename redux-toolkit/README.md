@@ -79,10 +79,9 @@ https://redux-toolkit.js.org/rtk-query/api/fetchBaseQuery#baseurl
 5. baseUrl: 필수값이며 기본 Url을 적는다
 
 6. prepareHeaders(선택): 요청에 헤더를 지정하는 설정
-            *https://redux-toolkit.js.org/rtk-query/api/fetchBaseQuery
+*https://redux-toolkit.js.org/rtk-query/api/fetchBaseQuery
 
-[endpoints]
-7. 서버와의 상호작용하기 위해 정의한 일련의 작업집합 함수
+7. endpoints: 서버와의 상호작용하기 위해 정의한 일련의 작업집합 함수
 https://redux-toolkit.js.org/rtk-query/api/createApi
 
 [endpoints-options]
